@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/post/hello/</loc>
+    <loc>https://robdongas.github.io/RAU-web/post/hello/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://robdongas.github.io/RAU-web/post/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://robdongas.github.io/RAU-web/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/showcase/</loc>
+    <loc>https://robdongas.github.io/RAU-web/showcase/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://robdongas.github.io/RAU-web/about/</loc>
   </url><url>
-    <loc>http://example.org/book/</loc>
+    <loc>https://robdongas.github.io/RAU-web/book/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://robdongas.github.io/RAU-web/categories/</loc>
   </url><url>
-    <loc>http://example.org/location/</loc>
+    <loc>https://robdongas.github.io/RAU-web/location/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://robdongas.github.io/RAU-web/tags/</loc>
   </url>
 </urlset>

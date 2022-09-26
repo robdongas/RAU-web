@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://robdongas.github.io/RAU-web/'
 languageCode = 'en-us'
 title = 'Robots Among Us'
 theme = 'terminal'
