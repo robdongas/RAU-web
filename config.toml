@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Robots Among Us'
 theme = 'terminal'
 paginate = 5
+publishDir = 'docs'
 
 [params]
   contentTypeName = "post"
