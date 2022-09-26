@@ -1,7 +1,14 @@
 {{ define "main" }}
   {{ if .Content }}
     <div class="index-content {{ if .Params.framed -}}framed{{- end -}}">
-      {{ .Content }}
+      <div class="posts">
+        
+        <h1 class="post-title">
+          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+        </h1>
+        <img src="{{ .Params.Image | absURL }}" class="post-cover" alt="{{ .Title | plainify | default " " }}" />
+        {{ .Content }}
+      </div>
     </div>
   {{ end }}
 {{ end }}

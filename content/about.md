@@ -1,22 +1,32 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
 +++
 
-# Hi there
+> Please see the [Participant Information Statement](#) for full details.
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+# What is this research about?
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+We are investigating the use of sounds for communication between autonomous vehicles and pedestrians. Virtual Reality (VR) will be used to simulate a number of different scenarios relating to vehicle and pedestrian interaction.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+# What is involved in the study?
+Participants will complete a VR experience, followed by a short questionnaire and an interview, discussing their experience.
 
-The theme includes:
+The study should take approx. 1.5 hours.
 
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
+# Who is able to participate?
+Anyone who is over the age of 18, with no medical issues that would prevent the use of VR technologies.
 
-So, there you have it... enjoy!
+# What will participants receive?
+Participants will receive a *$50 gift voucher* for completion of the study.
+
+# Where will the study be conducted?
+The study will take place in the Wilkinson Building (School of Architecture, Design and Planning) at the University of Sydney.
+
+See the [location page](/location) for a map and further details.
+
+# When will the study happen?
+
+The studies will be running all throughout October. Sessions are available from 9am-6pm on Wednesday, Thursday, Friday and Saturday each week.
+
+See the [booking page](/book) to find a time that works for you.
+
