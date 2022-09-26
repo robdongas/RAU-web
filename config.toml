@@ -24,23 +24,23 @@ publishDir = 'docs'
 
     [languages.en.params.logo]
       logoText = "Robots Among Us"
-      logoHomeLink = "/"
+      logoHomeLink = "/RAU-web/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "home"
         name = "1.Home"
-        url = "/"
+        url = "/RAU-web/"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "2.About"
-        url = "/about"
+        url = "/RAU-web/about"
       [[languages.en.menu.main]]
         identifier = "location"
         name = "3.Location"
-        url = "/location"
+        url = "/RAU-web/location"
       [[languages.en.menu.main]]
         identifier = "book"
         name = "4.Book a Session"
-        url = "/book"
+        url = "/RAU-web/book"
 
