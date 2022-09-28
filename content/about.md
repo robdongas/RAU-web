@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-> Please see the [Participant Information Statement](#) for full details.
+> Please see the [Participant Information Statement](/docs/LabStudyPIS.pdf) for full details.
 
 # What is this research about?
 
