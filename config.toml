@@ -34,13 +34,13 @@ publishDir = 'docs'
       [[languages.en.menu.main]]
         identifier = "about"
         name = "2.About"
-        url = "/RAU-web/about"
+        url = "/about"
       [[languages.en.menu.main]]
         identifier = "location"
         name = "3.Location"
-        url = "/RAU-web/location"
+        url = "/location"
       [[languages.en.menu.main]]
         identifier = "book"
         name = "4.Book a Session"
-        url = "/RAU-web/book"
+        url = "/book"
 
