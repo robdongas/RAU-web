@@ -26,7 +26,7 @@ See the [location page](/RAU-web/location) for a map and further details.
 
 # When will the study happen?
 
-The studies will be running all throughout October. Sessions are available from 9am-6pm on Wednesday, Thursday, Friday and Saturday each week.
+The studies will be running all throughout October and November. Sessions are available from 9am-6pm on various days each week.
 
 See the [booking page](/RAU-web/book) to find a time that works for you.
 
