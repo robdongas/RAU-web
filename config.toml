@@ -15,7 +15,7 @@ publishDir = 'docs'
 [languages]
   [languages.en]
     title = "Robots Among Us"
-    subtitle = "A research project exploring the future of AV-Pedeestrian communication"
+    subtitle = "A VR research project exploring the future of AV-Pedestrian communication"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
